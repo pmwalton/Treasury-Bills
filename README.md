@@ -1,2 +1,2 @@
 # Treasury-Bills
-Our main project for George Hall's Independent Study
+Our main project for our independent study with George Hall
